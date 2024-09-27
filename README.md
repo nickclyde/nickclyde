@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nickclyde" alt="nickclyde" /></a> </p>
 
-- 🔭 I’m currently working on [Data Integration Building Blocks](https://cdcgov.github.io/dibbs-site/)
+- 🔭 I’m currently working on [phinvads-go](https://github.com/CDCgov/phinvads-go), a complete rewrite of CDC's legacy vocabulary management service in Go!
 
-- 🌱 I’m currently learning **Kubernetes**
-
-- 💬 Ask me about **Terraform**
+- 🌱 I’m currently learning **Kubernetes**, **Go**, **Templ**, and **HTMX**
 
 - ⚡ Fun fact **I love going to concerts! Ask me about my favorite bands.**
 
