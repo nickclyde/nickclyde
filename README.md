@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nickclyde" alt="nickclyde" /></a> </p>
 
-- 🔭 I’m currently working on [phinvads-go](https://github.com/CDCgov/phinvads-go), a complete rewrite of CDC's legacy vocabulary management service in Go!
+- 🔭 I’m currently working on [Query Connector](https://github.com/CDCgov/dibbs-query-connector), a tool to help public health departments make FHIR queries to healthcare providers.
 
 - 🌱 I’m currently learning **Kubernetes**, **Go**, **Templ**, and **HTMX**
 
