@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Query Connector](https://github.com/CDCgov/dibbs-query-connector), a tool to help public health departments make FHIR queries to healthcare providers.
 
-- 🌱 I’m currently learning **Kubernetes**, **Go**, **Templ**, and **HTMX**
+- 🌱 I’m currently learning **Next.js**, **Kubernetes**, and **Go**
 
 - ⚡ Fun fact **I love going to concerts! Ask me about my favorite bands.**
 
