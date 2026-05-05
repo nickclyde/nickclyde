@@ -70,9 +70,9 @@
     <td align="center" width="80"></td>
   </tr>
 </table>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickclyde&show_icons=true&locale=en&layout=compact" alt="nickclyde" /></p>
+<p><img align="left" src="https://nickclyde-readme-stats.vercel.app/api/top-langs?username=nickclyde&show_icons=true&locale=en&layout=compact" alt="nickclyde" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nickclyde&show_icons=true&locale=en" alt="nickclyde" /></p>
+<p>&nbsp;<img align="center" src="https://nickclyde-readme-stats.vercel.app/api?username=nickclyde&show_icons=true&locale=en" alt="nickclyde" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nickclyde&" alt="nickclyde" /></p>
 
