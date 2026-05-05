@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickclyde&label=Profile%20views&color=0e75b6&style=flat" alt="nickclyde" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nickclyde" alt="nickclyde" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://nickclyde-profile-trophy.vercel.app/?username=nickclyde" alt="nickclyde" /></a> </p>
 
 - 🔭 I’m currently working on [Query Connector](https://github.com/CDCgov/dibbs-query-connector), a tool to help public health departments make FHIR queries to healthcare providers.
 
@@ -74,5 +74,5 @@
 
 <p>&nbsp;<img align="center" src="https://nickclyde-readme-stats.vercel.app/api?username=nickclyde&show_icons=true&locale=en" alt="nickclyde" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nickclyde&" alt="nickclyde" /></p>
+<p><img align="center" src="https://nickclyde-readme-streak-stats.vercel.app/?user=nickclyde&" alt="nickclyde" /></p>
 
