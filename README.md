@@ -2,13 +2,16 @@
 
 ### A full-stack software engineer and proud dad to identical twin girls.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nickclyde&label=Profile views&color=0e75b6&style=flat" alt="nickclyde" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nickclyde&label=Profile%20views&color=0e75b6&style=flat" alt="nickclyde" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://nickclyde-profile-trophy.vercel.app/?username=nickclyde" alt="nickclyde" /></a> </p>
 
-- 🔭 I'm currently working on **[Query Connector](https://github.com/CDCgov/dibbs-query-connector), a tool to help public health departments make FHIR queries to healthcare providers, and [Text-to-Code](https://github.com/CDCgov/dibbs-text-to-code), a tool to match lab test names to LOINC codes using a SentenceTransformers model**
+- 🔭 I'm currently working on:
+  - **[DIBBs](https://github.com/CDCgov?q=dibbs)**, a suite of tools to help state and local public health departments get the data they need to save lives, including [Query Connector](https://github.com/CDCgov/dibbs-query-connector) and [Text-to-Code](https://github.com/CDCgov/dibbs-text-to-code)
+  - **[Sac Retro Game Club](https://sacretrogame.club)**, a community for retro gaming fans in Sacramento and beyond
+  - **[Apollo Reborn](https://github.com/Apollo-Reborn/Apollo-Reborn)**, keeping the Apollo Reddit app alive with your own API keys, unlocked Ultra features, and more
 
-- 🌱 I'm currently learning **Next.js, Go, Pytorch**
+- 🌱 I'm currently learning **Next.js, Go, Logos**
 
 - 📫 How to reach me **nick@twindad.dev**
 
@@ -28,13 +31,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino,aws,azure,bash,css,cypress,docker,express,fastapi,git,go,graphql,html,java,js,jest,kubernetes,linux,mysql,nextjs,nginx,nodejs,postgres,py,pytorch,rails,react,ruby,sass,spring,sqlite,tailwind,ts&perline=18" alt="Languages and Tools"/></a>
+<a href="https://skillicons.dev"><img src="assets/skills.svg" alt="Languages and Tools"/></a>
 </p>
-<table><tr>
-<td><a href="https://huggingface.co" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/></a></td>
-<td><a href="https://gohugo.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" alt="hugo" width="40" height="40"/></a></td>
-<td><a href="https://jekyllrb.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jekyll/jekyll-original.svg" alt="jekyll" width="40" height="40"/></a></td>
-</tr></table>
 
 <p><img align="left" src="https://nickclyde-readme-stats.vercel.app/api/top-langs?username=nickclyde&show_icons=true&locale=en&layout=compact" alt="nickclyde" /></p>
 
